@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>read</operation>
+        <source_scope display_value="Supplier Lifecycle Operations Integration with SAP">085c1636875291103844b8c4dabb3533</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>Prama</sys_created_by>
+        <sys_created_on>2023-04-06 10:47:15</sys_created_on>
+        <sys_id>2d735bd187ca211024ecfc86dabb3545</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_slm_m2m_location</sys_name>
+        <sys_package display_value="Supplier Lifecycle Operations Integration with SAP" source="sn_slm_sap_int">085c1636875291103844b8c4dabb3533</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supplier Lifecycle Operations Integration with SAP">085c1636875291103844b8c4dabb3533</sys_scope>
+        <sys_update_name>sys_scope_privilege_2d735bd187ca211024ecfc86dabb3545</sys_update_name>
+        <sys_updated_by>Prama</sys_updated_by>
+        <sys_updated_on>2023-04-06 10:47:15</sys_updated_on>
+        <target_name>sn_slm_m2m_location</target_name>
+        <target_scope display_value="Supplier Common Architecture">d03afd50c36d11103af7aaafc840dd50</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>
